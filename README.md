@@ -1,4 +1,4 @@
-# ⚡ Project Bolt
+# ⚡ Year Progress
 
 A modern frontend project built with:
 
@@ -105,7 +105,8 @@ You can deploy the Docker image to:
 
 ---
 
-![alt text](<../Screenshots/Final app.jpg>)
+![image](https://github.com/user-attachments/assets/10b8ec6b-ee4b-49c4-9d1f-c9310455d0b7)
+
 
 ---
 
