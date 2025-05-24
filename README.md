@@ -38,13 +38,13 @@ A modern frontend project built with:
 ### 🔨 Build the Docker image
 
 ```bash
-docker build -t project-bolt .
+docker build -t year_progress .
 ```
 
 ### ▶️ Run the container
 
 ```bash
-docker run -d -p 8080:80 project-bolt
+docker run -d -p 8080:80 year_progress
 ```
 
 Then open [http://localhost:8080](http://localhost:8080) in your browser.
@@ -94,6 +94,14 @@ project/
 - Nginx (for serving production build)
 
 ---
+
+##📦 Docker Image
+
+You can pull the Docker image directly from Docker Hub:
+
+```bash
+  docker pull surajkk93/year_progress:v1
+   ```
 
 ## 📦 Deployment Options
 
